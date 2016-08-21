@@ -1,0 +1,3 @@
+Title: Event_SetPlayerTransform
+Author: Fooly Cooly (Rewrite) / Rotondo (Original)
+An event used to make a teleporter brick.
